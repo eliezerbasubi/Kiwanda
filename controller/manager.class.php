@@ -1,5 +1,5 @@
 <?php
-require('model/model.class.php');
+require('model/manager.class.php');
 require('model/users.class.php');
 
 function home_page()
